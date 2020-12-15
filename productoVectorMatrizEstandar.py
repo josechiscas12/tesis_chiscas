@@ -5,7 +5,7 @@ Created on Sat Dec  5 12:19:24 2020
 
 @author: thisjose
 """
-@profile
+
 from time import time
 
 A = [[1, 0, 0, 2, 0],[3.1, 4, 0, 5, 0],[-6.2, 0, 7, 8, -9.1],[0, 0, 10.3, 11, 0],[0, 0, 0, 0, 12.3]]
